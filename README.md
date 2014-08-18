@@ -3,6 +3,13 @@ the-scoop
 
 Making it easy to pick your classes.
 
+#todo
+
+* define models (maybe use FlaskMongoRest?)
+* Scrape bruinwalk, upload to our db
+* make web front end (angular/ember/backbone)
+* make mobile front end (iOS, Android)
+
 #roadmap
 
 * V_1.0/alpha/0.1
